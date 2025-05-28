@@ -21,5 +21,6 @@ Bu proje, dizi ve film yorumları için geliştirilmiş bir web uygulamasıdır.
 
 ![Ekran 1](1.png)
 ![Ekran 2](2.png)
+## Admin Panel
 ![Ekran 3](3.png)
 ![Ekran 4](4.png) 
