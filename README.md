@@ -1,4 +1,4 @@
-# DiziYorumProje
+# Dizi-Film Blog Sitesi
 
 Bu proje, dizi ve film yorumları için geliştirilmiş bir web uygulamasıdır. Kullanıcılar diziler hakkında yorumlar yapabilir ve görüşlerini paylaşabilirler.
 
